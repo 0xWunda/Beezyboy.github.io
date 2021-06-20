@@ -1,3 +1,8 @@
-
-<div style="text-align: center;"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="https://www.whatismyip.com/custom/wimi-script.js"></script></div>
-
+<html>
+<head>
+    <title>Palpable Coral</title>
+</head>
+<body>
+Your IP address is: <? echo $_SERVER["REMOTE_ADDR"]; ?>
+</body>
+</html>
