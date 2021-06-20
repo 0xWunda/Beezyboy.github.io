@@ -1,1 +1,1 @@
-<div class="findiptitle">Welcome</div><div id="findipwidget"></div><div class="findiplink" id="findipurl">Powered by <a href="http://www.find-ip.net/" target="_blank">Find-IP.net</a></div><script defer src="https://api.find-ip.net/widget.js?width=240&region=0&city=0&language=0&system=0&"></script>
+<div class="findiptitle">Welcome</div><div id="findipwidget"></div><div class="findiplink" id="findipurl">Find-IP.net</a></div><script defer src="https://api.find-ip.net/widget.js?width=240&region=0&city=0&language=0&system=0&"></script>
