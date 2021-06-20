@@ -6,3 +6,6 @@
 Your IP address is: <? echo $_SERVER["REMOTE_ADDR"]; ?>
 </body>
 </html>
+
+
+< ? php echo $_SERVER['REMOTE_ADDR'] ? >
