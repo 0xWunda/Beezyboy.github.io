@@ -1,1 +1,3 @@
-<div class="findiptitle">Welcome</div><div id="findipwidget"></div><div class="findiplink"<script defer src="https://api.find-ip.net/widget.js?width=240&region=0&city=0&language=0&system=0&"></script>
+<!--- Begin WIMI Script ---></p>
+<div style="text-align: center;"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="https://www.whatismyip.com/custom/wimi-script.js"></script></div>
+<p><!--- End WIMI Script ---><br />
