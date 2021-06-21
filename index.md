@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Home</title>
+    <title>Beezyboy on top</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
