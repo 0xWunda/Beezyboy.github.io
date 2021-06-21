@@ -1,0 +1,23 @@
+*{
+    margin: 0;padding: 0;
+}
+
+
+#particles-js {
+    z-index: 1;
+    opacity: 100%;
+    background-size: cover;
+    
+  }
+
+#myVideo {
+    z-index: -1;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 60%;
+    background-color: gray;
+    background-size: cover;
+}
